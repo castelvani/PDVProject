@@ -1,0 +1,8 @@
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\bin\Debug\PDV.exe
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\bin\Debug\PDV.pdb
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\obj\Debug\PDV.csprojResolveAssemblyReference.cache
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\obj\Debug\PDV.Properties.Resources.resources
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\obj\Debug\PDV.csproj.GenerateResource.Cache
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\obj\Debug\PDV.exe
+c:\users\11171102336\documents\visual studio 2015\Projects\PDV\PDV\obj\Debug\PDV.pdb
+C:\Users\11171102336\Documents\Visual Studio 2015\Projects\PDV\PDV\obj\Debug\PDV.frmPrincipal.resources
